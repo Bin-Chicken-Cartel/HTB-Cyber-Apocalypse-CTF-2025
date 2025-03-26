@@ -55,6 +55,10 @@ The Lyra's Tavern application contains a critical vulnerability in the `app.cgi`
    - PHP reads its configuration from our provided data
    - The `auto_prepend_file` directive makes it execute our payload
    - Our payload runs `cat /flag.txt` and outputs the flag
+  
+```
+HTB{N0W_Y0U_S33_M3_N0W_Y0U_D0NT!@_672eda5ab455a16bb2248bba717144f3}
+```
 
 ## Why This Works
 
