@@ -1,34 +1,58 @@
-This repository contains my write-ups and solutions for challenges from the Hack The Box Cyber Apocalypse CTF 2025 competition.
-🌟 About The Event
-Hack The Box Cyber Apocalypse is an annual global online Capture The Flag competition.
+# 🌌 Cyber Apocalypse CTF 2025: Tales from Eldoria
 
+![Cyber Apocalypse Banner](https://ctf.hackthebox.com/storage/event/banners/29/large_banner.jpg)
 
-📝 Write-up Template
-Each challenge write-up typically follows this structure:
+## 🔮 About The Event
 
-Challenge Information
+[Hack The Box Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107) is an epic journey through a mystical fantasy realm where technology and magic collide. This annual global competition brought together hackers, security professionals, and CTF enthusiasts from across the world to test their skills in a unique fantasy-themed cybersecurity battlefield.
 
-Name, category, difficulty, points
-Brief description
-Challenge files (if any)
+## 🏆 Challenge Categories
 
+This repository contains my write-ups and solutions for challenges across multiple categories:
 
-Initial Analysis
+- **🧠 AI** - Challenges involving artificial intelligence and machine learning
+- **⛓️ Blockchain** - Smart contract vulnerabilities and blockchain exploitation
+- **💻 Coding** - Programming puzzles and algorithm challenges
+- **🔐 Cryptography** - Encryption, hashing, and cryptographic attacks
+- **🔍 Forensics** - Digital forensics and evidence analysis
+- **🤖 ML** - Machine learning model attacks and defenses
+- **🛡️ Secure Coding** - Identifying and fixing vulnerable code
 
-Understanding the challenge
-First steps taken
+## 📝 Write-up Structure
 
+Each challenge write-up follows this consistent structure:
 
-Solution Approach
+### 📋 Challenge Information
+- Name, category, and difficulty rating
+- Points awarded
+- Challenge description
+- Provided files and resources
 
-Step-by-step explanation
-Code snippets when relevant
-Screenshots for visual reference
+### 🔬 Initial Analysis
+- Problem breakdown
+- Key observations
+- Initial approach considerations
 
+### 🧩 Solution Methodology
+- Detailed step-by-step approach
+- Key techniques and tools utilized
+- Code snippets with explanations
+- Visual aids and diagrams when helpful
 
-Flag
+### 🚩 Flag Capture
+- Final solution implementation
+- Flag obtained and verification
 
-The obtained flag
-Final exploit/solution
+## ⚠️ Disclaimer
 
-Note: All the challenges and their solutions are shared for educational purposes only. The challenges are the intellectual property of Hack The Box.
+These write-ups are shared for educational purposes only. All challenge content remains the intellectual property of Hack The Box.
+
+## 🔗 Useful Links
+
+- [Official CTF Event Page](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)
+- [Hack The Box Platform](https://www.hackthebox.com/)
+- [My HTB Profile](https://app.hackthebox.com/users/YourUsername)
+
+---
+
+*"In the realm of Eldoria, where technology meets arcane forces, only the most skilled adventurers can unravel the mysteries and capture the flags that guard ancient knowledge."*
