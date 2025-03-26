@@ -51,7 +51,8 @@ These write-ups are shared for educational purposes only. All challenge content 
 
 - [Official CTF Event Page](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)
 - [Hack The Box Platform](https://www.hackthebox.com/)
-- [My HTB Profile](https://app.hackthebox.com/users/YourUsername)
+- [Team HTB Profile](https://ctf.hackthebox.com/team/overview/225156)
+- [Repository](https://github.com/Bin-Chicken-Cartel/HTB-Cyber-Apocalypse-CTF-2025.git)
 
 ---
 
