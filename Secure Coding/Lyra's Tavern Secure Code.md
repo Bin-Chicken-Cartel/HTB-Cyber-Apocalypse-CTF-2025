@@ -78,3 +78,5 @@ To prevent this vulnerability:
 3. Disable dangerous PHP directives like `allow_url_include`
 4. Run PHP with restricted permissions
 5. Implement proper filesystem access controls
+
+## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```

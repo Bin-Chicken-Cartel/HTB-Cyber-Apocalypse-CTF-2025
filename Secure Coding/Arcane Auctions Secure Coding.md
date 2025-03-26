@@ -95,3 +95,5 @@ This exploit chain demonstrates the importance of secure API design and proper a
 Furthermore, the use of nodemon for automatic reloading was critical in our attack, as it ensured our modifications were applied immediately without manual intervention. This chain allowed us to ultimately extract the flag from the container's root directory.
 
 **FLAG:** `HTB{l00k_0ut_f0r_0rm_l34k_bug_cut13_666aafc58da9e3ebfd64e44419efa218}`
+
+## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```

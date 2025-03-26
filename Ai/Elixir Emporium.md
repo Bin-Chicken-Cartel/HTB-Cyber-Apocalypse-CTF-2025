@@ -71,3 +71,5 @@ THALIONE STARCREST
 
 ## Flag 
 **HTB{Thalione Starcrest}**
+
+## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```

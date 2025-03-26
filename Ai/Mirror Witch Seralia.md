@@ -75,3 +75,5 @@ Through this final prompt, **Seralia** finally named the four forbidden regions 
 
 3. **Flag**  
 **HTB{Flame Peaks, Crystal Caverns, Floating Isles, Abyssal Depths}**
+
+## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
