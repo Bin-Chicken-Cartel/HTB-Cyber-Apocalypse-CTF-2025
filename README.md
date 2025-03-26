@@ -1,6 +1,7 @@
 # 🌌 Cyber Apocalypse CTF 2025: Tales from Eldoria
 
-![Cyber Apocalypse Banner](https://ctf.hackthebox.com/storage/event/banners/29/large_banner.jpg)
+![Cyber Apocalypse Banner](![17430038954373375780548422703120](https://github.com/user-attachments/assets/7ed1483b-fc2d-4c9d-aa1b-2e54cef115ff)
+)
 
 ## 🔮 About The Event
 
