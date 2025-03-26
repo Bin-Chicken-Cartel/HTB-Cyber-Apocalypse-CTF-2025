@@ -31,7 +31,4 @@ Flag
 The obtained flag
 Final exploit/solution
 
-📜 License
-This repository is licensed under the MIT License - see the LICENSE file for details.
-
 Note: All the challenges and their solutions are shared for educational purposes only. The challenges are the intellectual property of Hack The Box.
