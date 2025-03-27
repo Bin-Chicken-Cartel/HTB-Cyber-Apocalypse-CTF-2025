@@ -87,4 +87,4 @@ We found the password "clip-mummify-proofs" associated with the email address se
 ## Conclusion
 This challenge demonstrated practical memory forensics techniques for investigating browser-based malware. The malicious extension was using Chrome's built-in storage and logging mechanisms to capture user credentials, highlighting how attackers can abuse legitimate browser functionality.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

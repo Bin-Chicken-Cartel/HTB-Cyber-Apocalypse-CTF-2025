@@ -97,4 +97,4 @@ HTB{W4LK1N9_7H3_570N3F0R93_P47H_45_R3QU1R3D_e300e8639b5e8cfcacd903a2f85bc286}
 
 By leveraging our write access to modify `nginx.conf`, we bypassed the restrictions imposed by the static file serving and path traversal protections. This allowed us to expose the root filesystem and retrieve the flag.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

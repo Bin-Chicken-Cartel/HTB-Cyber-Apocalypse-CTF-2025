@@ -79,4 +79,4 @@ To prevent this vulnerability:
 4. Run PHP with restricted permissions
 5. Implement proper filesystem access controls
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

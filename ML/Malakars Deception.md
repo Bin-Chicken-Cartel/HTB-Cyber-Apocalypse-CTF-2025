@@ -120,4 +120,4 @@ This type of attack vector is particularly concerning as machine learning models
 
 This was an interesting challenge that highlighted the potential security risks in machine learning model files. Always be careful when loading models from untrusted sources, as they could contain malicious code that executes upon loading.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

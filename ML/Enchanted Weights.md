@@ -197,4 +197,4 @@ The flag is: `HTB{Cry5t4l_RuN3s_0f_Eld0r1a}`
 
 This challenge demonstrates a creative way to hide data within what appears to be a legitimate machine learning model file, using the model weights themselves as a steganographic medium.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

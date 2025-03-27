@@ -254,4 +254,4 @@ The flag `HTB{t4l3s_fr0m___RS4_1n_symm3tr1c_gr0ups!}` reflects the challenge’s
 
 **Lessons Learned**: Verify permutation inversions with small cases, and don’t trust padding until the plaintext sings.
 
-## Write-Up Credit: kkc123 ```https://ctf.hackthebox.com/user/profile/606424```
+## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

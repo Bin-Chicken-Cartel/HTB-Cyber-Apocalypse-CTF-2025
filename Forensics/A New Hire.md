@@ -67,4 +67,4 @@ Once decoded, the string reveals the flag.
 
 Happy hacking! 🔍💻
 
-## Write-Up Credit: kkc123 ```https://ctf.hackthebox.com/user/profile/606424```
+## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

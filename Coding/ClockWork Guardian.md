@@ -183,4 +183,4 @@ The key insight was recognizing the need to invert the traversal logic from the 
 HTB{CL0CKW0RK_GU4RD14N_OF_SKYW4TCH_6e9041cf508d1e5d11a42dfdb0b79ee6}
 ```
 
-## Write-Up Credit: kkc123 ```https://ctf.hackthebox.com/user/profile/606424```
+## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

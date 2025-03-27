@@ -96,4 +96,4 @@ Furthermore, the use of nodemon for automatic reloading was critical in our atta
 
 **FLAG:** `HTB{l00k_0ut_f0r_0rm_l34k_bug_cut13_666aafc58da9e3ebfd64e44419efa218}`
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

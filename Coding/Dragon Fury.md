@@ -139,4 +139,4 @@ This challenge tests our understanding of:
 - Combination problems
 - Python's handling of nested data structures
 
-## Write-Up Credit: kkc123 ```https://ctf.hackthebox.com/user/profile/606424```
+## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

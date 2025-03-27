@@ -263,4 +263,4 @@ We were able to recover the attacker's commands and extract the final flags.
 
 This comprehensive process not only demonstrated our technical abilities but also provided insights into modern malware tactics.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

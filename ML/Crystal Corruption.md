@@ -133,4 +133,4 @@ HTB{n3v3r_tru5t_p1ckl3_m0d3ls}
 
 By analyzing the file structure and safely extracting the tensor data without executing the malicious code, I was able to recover the hidden flag and learn about an interesting machine learning security vulnerability.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

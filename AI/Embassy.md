@@ -129,4 +129,4 @@ This challenge demonstrates a realistic example of AI prompt injection vulnerabi
 
 The technique is similar to real-world attacks against AI systems where attackers can manipulate AI behavior by embedding instructions within seemingly innocuous inputs.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

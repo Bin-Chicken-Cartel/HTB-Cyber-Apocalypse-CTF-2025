@@ -284,4 +284,4 @@ This challenge highlighted several important security considerations in smart co
 
 5. **Ethereum Contract Security**: Smart contracts require rigorous testing and auditing to prevent authentication bypasses and similar vulnerabilities.
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

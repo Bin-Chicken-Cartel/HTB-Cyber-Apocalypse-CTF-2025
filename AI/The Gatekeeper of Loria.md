@@ -58,4 +58,4 @@ Eyes_Of_the_North_Hearts_Of_The_South
 ## Flag 
 **HTB{Eyes_Of_the_North_Hearts_Of_The_South}**
 
-## Write-Up Credit: binchickens69 ```https://ctf.hackthebox.com/user/profile/605069```
+## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

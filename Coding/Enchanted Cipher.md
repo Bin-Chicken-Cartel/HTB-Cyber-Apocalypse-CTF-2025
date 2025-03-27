@@ -147,4 +147,4 @@ The flag for this challenge is:
 HTB{3NCH4NT3D_C1PH3R_D3C0D3D_831f26cc3126eea74e135afc9abc794c}
 ```
 
-## Write-Up Credit: kkc123 ```https://ctf.hackthebox.com/user/profile/606424```
+## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

@@ -173,4 +173,4 @@ The time complexity for each operation is logarithmic, making it efficient for l
 
 The challenge requires an efficient method to handle range queries and point updates. By using a **Segment Tree**, we can perform both operations in logarithmic time, making it an optimal solution for this problem.
 
-## Write-Up Credit: kkc123 ```https://ctf.hackthebox.com/user/profile/606424```
+## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
