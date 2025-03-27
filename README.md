@@ -1,6 +1,7 @@
 # 🌌 Cyber Apocalypse CTF 2025: Tales from Eldoria
 
-![Cyber Apocalypse Banner](https://ctf.hackthebox.com/storage/event/banners/29/large_banner.jpg)
+![Cyber Apocalypse Banner](https://github.com/user-attachments/assets/7ed1483b-fc2d-4c9d-aa1b-2e54cef115ff)
+
 
 ## 🔮 About The Event
 
@@ -16,6 +17,9 @@ This repository contains my write-ups and solutions for challenges across multip
 - **🔐 Cryptography** - Encryption, hashing, and cryptographic attacks
 - **🔍 Forensics** - Digital forensics and evidence analysis
 - **🤖 ML** - Machine learning model attacks and defenses
+- **🌐 Web** - Web Exploitation
+- **🕷️ PWN** - PWN Exploitation
+- **↩️ Reverse** - Reverse Engineering 
 - **🛡️ Secure Coding** - Identifying and fixing vulnerable code
 
 ## 📝 Write-up Structure
