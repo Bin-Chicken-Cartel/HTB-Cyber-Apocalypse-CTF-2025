@@ -1,14 +1,13 @@
-# HTB 2025 - EldoriaGate Blockchain Challenge
+# Blockchain - EldoriaGate
 
 ## Challenge Information
-
-- **Name**: EldoriaGate
 - **Category**: Blockchain
-- **Points**: 325
 - **Solves**: 38
-- **Description**: Eldoria's gates stand as the ancient barrier between the common folk and the privileged elite. A strict authentication system ensures only those with the right passphrase and proper societal contributions may enter. Your goal: breach the gates and become the unknown usurper - authenticated yet without societal obligations.
 
-## Overview
+## Description
+Eldoria's gates stand as the ancient barrier between the common folk and the privileged elite. A strict authentication system ensures only those with the right passphrase and proper societal contributions may enter. Your goal: breach the gates and become the unknown usurper - authenticated yet without societal obligations.
+
+## Analysis
 
 EldoriaGate is a blockchain challenge focusing on Ethereum smart contract vulnerabilities. We're presented with three Solidity contracts:
 
@@ -267,8 +266,9 @@ Running the exploit:
 6. Retrieved the flag from the menu service
 
 ## Flag
-
-`HTB{unkn0wn_1ntrud3r_1nsid3_Eld0r1a_gates}`
+```
+HTB{unkn0wn_1ntrud3r_1nsid3_Eld0r1a_gates}
+```
 
 ## Lessons Learned
 
@@ -284,4 +284,5 @@ This challenge highlighted several important security considerations in smart co
 
 5. **Ethereum Contract Security**: Smart contracts require rigorous testing and auditing to prevent authentication bypasses and similar vulnerabilities.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

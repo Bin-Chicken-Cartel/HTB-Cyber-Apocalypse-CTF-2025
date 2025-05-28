@@ -1,6 +1,8 @@
-Write-Up for the Exploit Script:
+# Secure Coding - Lyras Tavern
 
-# Lyra's Tavern Exploit Explanation
+## Challenge Information
+- **Category**: Secure Coding
+- **Challenge Name**: Lyras Tavern
 
 ## Vulnerability Overview
 
@@ -55,7 +57,8 @@ The Lyra's Tavern application contains a critical vulnerability in the `app.cgi`
    - PHP reads its configuration from our provided data
    - The `auto_prepend_file` directive makes it execute our payload
    - Our payload runs `cat /flag.txt` and outputs the flag
-  
+
+## Flag
 ```
 HTB{N0W_Y0U_S33_M3_N0W_Y0U_D0NT!@_672eda5ab455a16bb2248bba717144f3}
 ```
@@ -79,4 +82,4 @@ To prevent this vulnerability:
 4. Run PHP with restricted permissions
 5. Implement proper filesystem access controls
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

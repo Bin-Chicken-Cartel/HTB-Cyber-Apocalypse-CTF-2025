@@ -1,9 +1,9 @@
-+1 @fcken_ for 1 of the flags!!
+# Forensics - Stealth Invasion
 
-**Stealth Invasion Write-Up**
-# HTB 2025 Forensics Challenge Writeup: Malicious Chrome Extension
+## Challenge Information
+- **Category**: Forensics
 
-## Challenge Overview
+## Description
 This challenge provided a memory dump file (memdump.elf) and required analysis of a malicious Chrome extension to find several pieces of information.
 
 ## Tools Used
@@ -87,4 +87,8 @@ We found the password "clip-mummify-proofs" associated with the email address se
 ## Conclusion
 This challenge demonstrated practical memory forensics techniques for investigating browser-based malware. The malicious extension was using Chrome's built-in storage and logging mechanisms to capture user credentials, highlighting how attackers can abuse legitimate browser functionality.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+
+## Additional Credit
++1 [kkc123](https://ctf.hackthebox.com/user/profile/606424) for 1 of the flags!!

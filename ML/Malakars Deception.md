@@ -1,9 +1,8 @@
-# HTB Machine Learning CTF - Malakar's Deception
+# ML - Malakars Deception
 
 ## Challenge Information
-- **Category**: Machine Learning
-- **Challenge Name**: Malakar's Deception
-- **Difficulty**: Medium
+- **Category**: ML
+- **Challenge Name**: Malakars Deception
 
 ## Challenge Description
 The challenge provided a machine learning model file (`malicious.h5`) that was flagged by Windows Defender as a Trojan WTAC, but VirusTotal showed it as clean. The goal was to analyze the model and find the hidden HTB flag.
@@ -120,4 +119,4 @@ This type of attack vector is particularly concerning as machine learning models
 
 This was an interesting challenge that highlighted the potential security risks in machine learning model files. Always be careful when loading models from untrusted sources, as they could contain malicious code that executes upon loading.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

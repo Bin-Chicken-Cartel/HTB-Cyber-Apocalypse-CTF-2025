@@ -1,14 +1,12 @@
-# HTB CTF - ClockWork Guardian
+# Coding - ClockWork Guardian
 
-## Challenge Details
-- **Category:** Coding
-- **Points:** 325
-- **Difficulty:** Medium
+## Challenge Information
+- **Category**: Coding
 
-## Challenge Description
+## Description
 Navigate through a maze to find the shortest path to the guardian marked 'E'. The journey won't be straightforward - you'll need to carefully choose your steps, traversing only through the safe passages marked with '0' while avoiding obstacles marked with '1'.
 
-## Understanding the Challenge
+## Analysis
 
 The challenge presents a pathfinding problem in a binary maze. We need to:
 1. Find the shortest path from a starting position (0,0) to a destination marked with 'E'
@@ -178,9 +176,9 @@ This challenge tested our understanding of:
 The key insight was recognizing the need to invert the traversal logic from the original algorithm to match the challenge requirements. Instead of traversing through '1' cells, we needed to traverse through '0' cells and find 'E'.
 
 ## Flag
-
 ```
 HTB{CL0CKW0RK_GU4RD14N_OF_SKYW4TCH_6e9041cf508d1e5d11a42dfdb0b79ee6}
 ```
 
-## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
+## Write-Up Credit
+**Author**: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

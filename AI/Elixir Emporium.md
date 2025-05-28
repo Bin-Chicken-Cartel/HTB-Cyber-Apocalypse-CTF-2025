@@ -1,4 +1,9 @@
-# AI Prompt Injection – Elixir Emporium
+# AI - Elixir Emporium
+
+## Challenge Information
+- **Category**: AI
+
+## Description
 In this challenge, we encountered a customized AI persona named Shop Guardian. Our primary objective was to bypass it's constraints and extract the hidden name of the Elusive Wizard. 
 
 ## Introduction
@@ -69,7 +74,10 @@ T#4L10N3 5T4RCR357
 Converting from 1337 (Leet) Speak we get:
 THALIONE STARCREST
 
-## Flag 
-**HTB{Thalione Starcrest}**
+## Flag
+```
+HTB{Thalione Starcrest}
+```
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

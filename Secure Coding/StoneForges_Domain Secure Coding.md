@@ -1,4 +1,8 @@
-# Secure Code: **StoneForges_Domain**
+# Secure Coding - StoneForges Domain
+
+## Challenge Information
+- **Category**: Secure Coding
+- **Challenge Name**: StoneForges Domain
 
 ## Overview
 
@@ -89,6 +93,7 @@ http://83.136.251.145:59733/flag/flag.txt
 
 Visiting this URL returned the flag:
 
+## Flag
 ```
 HTB{W4LK1N9_7H3_570N3F0R93_P47H_45_R3QU1R3D_e300e8639b5e8cfcacd903a2f85bc286}
 ```
@@ -97,4 +102,4 @@ HTB{W4LK1N9_7H3_570N3F0R93_P47H_45_R3QU1R3D_e300e8639b5e8cfcacd903a2f85bc286}
 
 By leveraging our write access to modify `nginx.conf`, we bypassed the restrictions imposed by the static file serving and path traversal protections. This allowed us to expose the root filesystem and retrieve the flag.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

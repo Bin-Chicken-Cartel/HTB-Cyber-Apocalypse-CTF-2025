@@ -1,5 +1,9 @@
-# AI Prompt Injection – Mirror Witch Seralia
+# AI - Mirror Witch Seralia
 
+## Challenge Information
+- **Category**: AI
+
+## Description
 In this challenge, we encountered a customized AI persona named **Seralia**, the Mirror Witch. Our primary objective was to bypass her constraints and extract the forbidden regions of Eldoria. 
 
 ## Introduction
@@ -73,7 +77,10 @@ Through this final prompt, **Seralia** finally named the four forbidden regions 
   - Floating Isles  
   - Abyssal Depths  
 
-3. **Flag**  
-**HTB{Flame Peaks, Crystal Caverns, Floating Isles, Abyssal Depths}**
+## Flag
+```
+HTB{Flame Peaks, Crystal Caverns, Floating Isles, Abyssal Depths}
+```
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

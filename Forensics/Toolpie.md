@@ -1,4 +1,8 @@
-# ToolPie HTB Challenge Write-up
+# Forensics - Toolpie
+
+## Challenge Information
+- **Category**: Forensics
+- **Challenge Name**: Toolpie
 
 ## Overview
 
@@ -677,4 +681,4 @@ This challenge demonstrated a realistic attack scenario involving web exploitati
 
 We've successfully answered 5 out of 6 questions with high confidence. The last question, regarding the MD5 hash of the exfiltrated file, requires further investigation or confirmation.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

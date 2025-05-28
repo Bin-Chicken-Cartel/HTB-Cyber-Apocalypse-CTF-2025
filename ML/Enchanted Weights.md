@@ -1,4 +1,8 @@
-# HTB 2025 CTF - ML Enchanted Weights
+# ML - Enchanted Weights
+
+## Challenge Information
+- **Category**: ML
+- **Challenge Name**: Enchanted Weights
 
 ## Challenge Description
 This challenge provides a PyTorch model file (`eldorian_artifact.pth`) that contains a hidden flag.
@@ -197,4 +201,4 @@ The flag is: `HTB{Cry5t4l_RuN3s_0f_Eld0r1a}`
 
 This challenge demonstrates a creative way to hide data within what appears to be a legitimate machine learning model file, using the model weights themselves as a steganographic medium.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

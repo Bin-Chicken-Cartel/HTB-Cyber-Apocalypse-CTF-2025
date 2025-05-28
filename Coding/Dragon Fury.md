@@ -1,11 +1,9 @@
-# HTB CTF - Dragon Fury
+# Coding - Dragon Fury
 
 ## Challenge Information
-- **Category:** Coding
-- **Difficulty:** Medium
-- **Points:** 350
+- **Category**: Coding
 
-## Challenge Description
+## Description
 In this challenge, we need to find a specific combination of numbers from multiple arrays that sum up to a target value. Think of it as simulating a fighting game combo system where each move has a specific damage value, and we need to find the right sequence to defeat an enemy with exact damage.
 
 ## Analysis
@@ -128,7 +126,6 @@ This gives us the specific "Dragon Fury Combo" needed to solve the challenge.
 3. **Path Tracking**: The algorithm keeps track of the selected numbers, not just their sum.
 
 ## Flag
-
 ```
 HTB{DR4G0NS_FURY_SIM_C0MB0_3a09897d65eb9cef45b70bb9a493864f}
 ```
@@ -139,4 +136,5 @@ This challenge tests our understanding of:
 - Combination problems
 - Python's handling of nested data structures
 
-## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
+## Write-Up Credit
+**Author**: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

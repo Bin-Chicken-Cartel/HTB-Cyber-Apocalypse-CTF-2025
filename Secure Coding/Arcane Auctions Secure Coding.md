@@ -1,12 +1,14 @@
-# Arcane Auctions Secure Coding
+# Secure Coding - Arcane Auctions
 
-**Write-UP:**
+## Challenge Information
+- **Category**: Secure Coding
+- **Challenge Name**: Arcane Auctions
 
-## 1. Overview
+## Overview
 
 We exploited a multi-stage vulnerability in the Node.js application deployed via Docker. The chain leveraged an insecure filtering endpoint, weak authentication, and an exposed SMB share that allowed us to modify source code on the fly. Ultimately, this allowed us to inject a malicious route to read the contents of `/flag.txt`—which is owned by root and located at the container’s root directory.
 
-## 2. Vulnerability Chain
+## Vulnerability Chain
 
 ### a. Insecure Filter Endpoint
 
@@ -66,7 +68,7 @@ We exploited a multi-stage vulnerability in the Node.js application deployed via
 - **Impact:**  
   Once we modified `routes.js`, nodemon reloaded the server automatically without requiring a manual restart. This behavior allowed our injected `/flag` endpoint to become active almost immediately, enabling us to retrieve the flag.
 
-## 3. Exploitation Steps
+## Exploitation Steps
 
 - **Credential Extraction:**  
   We sent a crafted JSON payload to the `/api/filter` endpoint to leak seller data, which revealed valid credentials.
@@ -83,7 +85,7 @@ We exploited a multi-stage vulnerability in the Node.js application deployed via
 - **Flag Retrieval:**  
   Finally, we accessed `http://<target_address>/flag` (e.g., `http://83.136.254.193/flag`), which triggered our injected endpoint to read and return the contents of `/flag.txt`.
 
-## 4. Conclusion
+## Conclusion
 
 This exploit chain demonstrates the importance of secure API design and proper access controls:
 
@@ -94,6 +96,9 @@ This exploit chain demonstrates the importance of secure API design and proper a
 
 Furthermore, the use of nodemon for automatic reloading was critical in our attack, as it ensured our modifications were applied immediately without manual intervention. This chain allowed us to ultimately extract the flag from the container's root directory.
 
-**FLAG:** `HTB{l00k_0ut_f0r_0rm_l34k_bug_cut13_666aafc58da9e3ebfd64e44419efa218}`
+## Flag
+```
+HTB{l00k_0ut_f0r_0rm_l34k_bug_cut13_666aafc58da9e3ebfd64e44419efa218}
+```
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

@@ -1,10 +1,12 @@
-# 🔍 Forensic – Thorin's Amulet
+# Forensics - Thorins Amulet
+
+## Challenge Information
+- **Category**: Forensics
+- **Challenge Name**: Thorins Amulet
 
 ## Challenge Overview
 
 This forensic investigation involves analyzing an obfuscated PowerShell script, decoding a payload, and tracing staged download commands to uncover a hidden flag.
-
----
 
 ### 🛠 Preparation
 
@@ -67,4 +69,4 @@ This fetches `a541a.ps1`, which contains the logic to generate the final flag.
 HTB{7h0R1N_H45_4lW4Y5_833n_4N_9r347_1NV3n70r}
 ```
 
-## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
+**Author**: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

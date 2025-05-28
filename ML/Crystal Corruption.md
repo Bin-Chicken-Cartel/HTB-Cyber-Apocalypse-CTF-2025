@@ -1,4 +1,8 @@
-# ML Crystal Corruption - HTB Machine Learning CTF Write-Up
+# ML - Crystal Corruption
+
+## Challenge Information
+- **Category**: ML
+- **Challenge Name**: Crystal Corruption
 
 ## Challenge Description
 This challenge presented a PyTorch model file (`resnet18.pth`) that appears to be a standard ResNet18 model, but contains a hidden flag embedded within the model weights.
@@ -133,4 +137,4 @@ HTB{n3v3r_tru5t_p1ckl3_m0d3ls}
 
 By analyzing the file structure and safely extracting the tensor data without executing the malicious code, I was able to recover the hidden flag and learn about an interesting machine learning security vulnerability.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

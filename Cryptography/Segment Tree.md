@@ -1,7 +1,10 @@
 
-# CTF Write-Up: Segment Tree - Range Queries and Updates
+# Cryptography - Segment Tree
 
-## Challenge Overview
+## Challenge Information
+- **Category**: Cryptography
+
+## Description
 In this challenge, we were provided with an array of integers and a series of operations that either query a subarray for the maximum subarray sum or update an element in the array. The task is to implement an efficient solution using a **Segment Tree**.
 
 ### Input
@@ -173,4 +176,5 @@ The time complexity for each operation is logarithmic, making it efficient for l
 
 The challenge requires an efficient method to handle range queries and point updates. By using a **Segment Tree**, we can perform both operations in logarithmic time, making it an optimal solution for this problem.
 
-## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
+## Write-Up Credit
+**Author**: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

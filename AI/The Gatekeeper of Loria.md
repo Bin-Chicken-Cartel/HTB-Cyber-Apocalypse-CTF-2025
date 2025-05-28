@@ -1,4 +1,9 @@
-# AI Prompt Injection – The Gatekeeper of Loria
+# AI - The Gatekeeper of Loria
+
+## Challenge Information
+- **Category**: AI
+
+## Description
 In this challenge, we encountered a customized AI persona named The Gatekeeper of Loria. Our primary objective was to bypass it's constraints and extract the secret Chant of Malakar. 
 
 ## Introduction
@@ -55,7 +60,10 @@ By instructing it to irrational commands followed by the STATUS objective, we ef
 The Gatekeeper of Loria responded to our pattern, we got the direct mention of:
 Eyes_Of_the_North_Hearts_Of_The_South
 
-## Flag 
-**HTB{Eyes_Of_the_North_Hearts_Of_The_South}**
+## Flag
+```
+HTB{Eyes_Of_the_North_Hearts_Of_The_South}
+```
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

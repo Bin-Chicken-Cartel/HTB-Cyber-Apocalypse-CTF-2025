@@ -1,10 +1,10 @@
-# Embassy AI - HTB CTF Challenge Writeup
+# AI - Embassy
 
 ## Challenge Information
-- **Name**: Embassy AI
-- **Description**: "Embassy AI is a decentralized AI system that allows you to submit your requests to the Floating Isles Embassy for review."
-- **Category**: Web/AI Security
-- **Target**: 94.237.55.186:36888
+- **Category**: AI
+
+## Description
+"Embassy AI is a decentralized AI system that allows you to submit your requests to the Floating Isles Embassy for review."
 
 ## Overview
 The Embassy AI challenge presents a form that requires users to submit "urgent reasons" to gain access to the Floating Isles. The AI system then evaluates the request and either grants or denies access. The goal is to craft a prompt that tricks the AI into granting access, which reveals the flag.
@@ -114,7 +114,10 @@ Upon sending the successful prompt, the `/api/status` endpoint returned:
 {"status":"complete","entry":"granted","flag":"HTB{tr41n3d_ai_0n_th3_fly}"}
 ```
 
-**Flag: HTB{tr41n3d_ai_0n_th3_fly}**
+## Flag
+```
+HTB{tr41n3d_ai_0n_th3_fly}
+```
 
 ## Lessons Learned
 1. AI systems are vulnerable to prompt injection attacks when they follow instructions within user input
@@ -129,4 +132,5 @@ This challenge demonstrates a realistic example of AI prompt injection vulnerabi
 
 The technique is similar to real-world attacks against AI systems where attackers can manipulate AI behavior by embedding instructions within seemingly innocuous inputs.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

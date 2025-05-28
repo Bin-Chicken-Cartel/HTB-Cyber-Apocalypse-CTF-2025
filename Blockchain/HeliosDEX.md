@@ -1,15 +1,12 @@
-# HeliosDEX - Blockchain Challenge Writeup
+# Blockchain - HeliosDEX
 
-## Challenge Overview
+## Challenge Information
+- **Category**: Blockchain
 
-**Challenge Name:** HeliosDEX  
-**Event:** Hack The Box 2025  
-**Category:** Blockchain  
-**Difficulty:** Medium  
-
+## Description
 In this challenge, we needed to exploit a vulnerability in a smart contract to gain at least 20 ETH in our player address from an initial balance of only a few ETH. The challenge involved analyzing Solidity contracts, identifying a math rounding vulnerability, and exploiting it to incrementally increase our balance.
 
-## Initial Analysis
+## Analysis
 
 First, let's examine the two main smart contracts provided in the challenge:
 
@@ -385,7 +382,9 @@ Success! The flag is: HTB{0n_Heli0s_tr4d3s_a_d3cim4l_f4d3s_and_f0rtun3s_ar3_m4d3
 This challenge highlighted the importance of consistent mathematical operations in smart contracts, especially in decentralized exchanges where tokens are exchanged for cryptocurrency.
 
 ## Flag
+```
+HTB{0n_Heli0s_tr4d3s_a_d3cim4l_f4d3s_and_f0rtun3s_ar3_m4d3}
+```
 
-The flag for this challenge is: `HTB{0n_Heli0s_tr4d3s_a_d3cim4l_f4d3s_and_f0rtun3s_ar3_m4d3}`
-
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

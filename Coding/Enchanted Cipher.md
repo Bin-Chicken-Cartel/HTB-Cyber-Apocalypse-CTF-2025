@@ -1,14 +1,12 @@
-# HTB CTF - Enchanted Cipher
+# Coding - Enchanted Cipher
 
 ## Challenge Information
-**Category:** Coding  
-**Difficulty:** Easy  
-**Points:** 325  
+- **Category**: Coding
 
 ## Description
 We intercepted an encrypted message and a suspicious piece of code. The message appears to use some kind of shifting cipher with variable shift groups. Can you crack the code and recover the hidden flag?
 
-## Initial Analysis
+## Analysis
 
 When examining the challenge, we're provided with:
 1. An encoded string: `ibeqtsl`
@@ -141,10 +139,9 @@ Since this appears to be the flag directly, there's no need to run the decoder. 
 4. **Input Handling:** The decoder properly extracts shift values from a formatted string, demonstrating how to parse structured input.
 
 ## Flag
-
-The flag for this challenge is:
 ```
 HTB{3NCH4NT3D_C1PH3R_D3C0D3D_831f26cc3126eea74e135afc9abc794c}
 ```
 
-## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
+## Write-Up Credit
+**Author**: [kkc123](https://ctf.hackthebox.com/user/profile/606424)

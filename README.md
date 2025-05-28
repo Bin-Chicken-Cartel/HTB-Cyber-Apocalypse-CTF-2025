@@ -47,9 +47,13 @@ Each challenge write-up follows this consistent structure:
 - Final solution implementation
 - Flag obtained and verification
 
-## ⚠️ Disclaimer
+## ⚠️ Legal Disclaimer
 
-These write-ups are shared for educational purposes only. All challenge content remains the intellectual property of Hack The Box.
+All techniques and exploits documented in these write-ups are for educational purposes only. The content is intended to improve cybersecurity knowledge and defensive capabilities. Users are responsible for ensuring compliance with applicable laws and regulations when applying these techniques.
+
+## AI Disclaimer
+
+These write-ups were formatted and structured with the assistance of artificial intelligence (AI) to ensure consistency in styling and layout. All technical content has been thoroughly reviewed and validated by the author to maintain accuracy and clarity. This AI-powered process is intended solely to enhance readability and support junior engineers in following the methodologies more easily—every solution remains the product of expert analysis.
 
 ## 🔗 Useful Links
 

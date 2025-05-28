@@ -1,9 +1,12 @@
-# Eldorion Blockchain Challenge Writeup
+# Blockchain - Eldorion
 
-## Challenge Overview
+## Challenge Information
+- **Category**: Blockchain
+
+## Description
 The Eldorion challenge is a blockchain-based CTF from HTB 2025. The objective is to defeat the "Eldorion" smart contract by reducing its health to exactly 0.
 
-## Vulnerability Analysis
+## Analysis
 
 The challenge consists of two main contracts:
 
@@ -104,11 +107,19 @@ contract EldorionAttacker {
 3. **Block Atomicity**: All operations within a single transaction execute atomically (or not at all), which allowed us to make all attacks before the health reset could take effect.
 
 ## Flag
-
 ```
 HTB{w0w_tr1pl3_hit_c0mbo_ggs_y0u_defe4ted_Eld0r10n}
 ```
 
 The flag references our "triple hit combo" attack strategy which defeated Eldorion.
 
-## Write-Up Credit: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)
+## Lessons Learned
+
+1. **Timestamp Manipulation**: The vulnerability demonstrates how timestamp-based conditions can be bypassed if multiple operations happen within the same block.
+
+2. **Smart Contract Design Issues**: The `eternalResilience` modifier was intended to protect Eldorion by resetting health on each new attack, but failed to account for multiple attacks in the same transaction.
+
+3. **Block Atomicity**: All operations within a single transaction execute atomically (or not at all), which allowed us to make all attacks before the health reset could take effect.
+
+## Write-Up Credit
+**Author**: [binchickens69](https://ctf.hackthebox.com/user/profile/605069)

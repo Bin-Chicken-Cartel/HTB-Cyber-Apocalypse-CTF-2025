@@ -1,11 +1,10 @@
-# HTB Cryptography Challenge Write-Up
+# Cryptography - Crypto Prelim
 
-**Challenge Name**: Crypto Prelim
-**Flag**: `HTB{t4l3s_fr0m___RS4_1n_symm3tr1c_gr0ups!}`  
-**Date Solved**: March 22, 2025  
-**Author**: Kenneth with assistance from Grok 3 (xAI)
+## Challenge Information
+- **Category**: Cryptography
+- **Date Solved**: March 22, 2025
 
-## Problem Statement
+## Description
 
 We were tasked with decrypting an AES-ECB encrypted flag (`enc_flag`) starting with "HTB" using a provided Python script and output data. The script involved a permutation exponentiation process over a symmetric group, making this a blend of cryptography and group theory.
 
@@ -254,4 +253,10 @@ The flag `HTB{t4l3s_fr0m___RS4_1n_symm3tr1c_gr0ups!}` reflects the challenge’s
 
 **Lessons Learned**: Verify permutation inversions with small cases, and don’t trust padding until the plaintext sings.
 
-## Write-Up Credit: [kkc123](https://ctf.hackthebox.com/user/profile/606424)
+## Flag
+```
+HTB{t4l3s_fr0m___RS4_1n_symm3tr1c_gr0ups!}
+```
+
+## Write-Up Credit
+**Author**: [kkc123](https://ctf.hackthebox.com/user/profile/606424) with assistance from Grok 3 (xAI)
